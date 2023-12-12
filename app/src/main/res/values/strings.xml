@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator imc</string>
+    <string name="abaixo_peso">\"Você está abaixo do peso ideal. Consulte um profissional de saúde para orientações.\"</string>
+    <string name="peso_saudavel">\"Seu peso está dentro da faixa considerada saudável. Parabéns!\"</string>
+    <string name="sobrepeso">\"Você está com sobrepeso. Considere adotar hábitos saudáveis de alimentação e exercícios.\"</string>
+    <string name="obesidade_grau_I">\"Você está na faixa de obesidade grau I. Procure a orientação de um profissional de saúde.\"</string>
+    <string name="obesidade_grau_II">\"Você está na faixa de obesidade grau II. Consulte um médico para orientações.\"</string>
+    <string name="obesidade_grau_III">\"Você está na faixa de obesidade grau III. É crucial procurar ajuda médica imediatamente.\"</string>
+</resources>
